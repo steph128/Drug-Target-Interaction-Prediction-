@@ -1,6 +1,6 @@
 # Drug-Target-Interaction-Prediction-
 
-Created a feature-based ensemble of decision trees with dimensionality reduction, accounting for between class bias and within class bias using SMOTE. Predicted novel Drug-Target Interation with from drug features, target protein features and their interaction data from DrugBank. \
+Created a feature-based ensemble of decision trees with dimensionality reduction, accounting for between class bias and within class bias using SMOTE. Predicted novel Drug-Target Interation with from drug features, target protein features and their interaction data from DrugBank. 
 
 Used following papers as reference: \
 Ezzat, A., Wu, M., Li, XL. et al. Drug-target interaction prediction via class imbalance-aware ensemble learning. BMC Bioinformatics 17, 509 (2016). https://doi.org/10.1186/s12859-016-1377-y \
